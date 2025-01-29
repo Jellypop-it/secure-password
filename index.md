@@ -39,3 +39,6 @@ The program performs the following steps:
 
 5. Gives user advice on creating secure passwords:
 ![image.png](step_5.png)
+
+## Want Explanation for the code? Check the page below: 
+[explanation page](explanation.md)
