@@ -113,3 +113,23 @@ Feel free to run this program again and create more secure passwords! Goodbye.
 
 print(tips)
 
+##How the Program Runs: 
+
+1. Welcomes the user and prompts them to create a username:
+
+![image.png](step_1.png)
+
+2. Prompts them to create a password: 
+
+![image.png](step_2.png)
+
+3. Prompts the user to enter secure password: 
+
+![image.png](step_3.png)
+
+4. Gives points based on length of password and the character types (upper_case, lower_case, special, digits).
+
+![image.png](step_4.png)
+
+5. Gives user advice on creating secure passwords:
+![image.png](step_5.png)
