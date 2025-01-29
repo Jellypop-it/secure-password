@@ -1,4 +1,5 @@
-title: Secure Password Python Proejct
+title: Secure Password Python Project
+
 description: The Secure Password Project is a Python-based tool designed to enhance password security. It validates password strength, encrypts passwords, and uses hashing techniques to ensure safe storage, helping users create stronger and more secure passwords for their online accounts.
 show_downloads: true
 google_analytics:
