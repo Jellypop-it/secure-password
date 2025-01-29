@@ -19,7 +19,7 @@ The program performs the following steps:
 ![image.png](screenshots/code_2.png)
 ![image.png](screenshots/code_3.png)
 
-##How the Program Runs: 
+## How the Program Runs: 
 
 1. Welcomes the user and prompts them to create a username:
 
