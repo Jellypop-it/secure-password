@@ -13,7 +13,7 @@ import time
 2. Welcome the user. 
 
 ```python
-print("Hello! Welcome to Jelly's Cyber World!\nI am glad you are here!\nBefore you can enter this world, Please a create a username and password!")
+print("Hello! Welcome to Jelly's Cyber World!\nI am glad you are here!\nBefore you can enter this world, Please create a username and a password!")
 
 ```
 
