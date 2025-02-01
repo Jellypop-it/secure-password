@@ -6,5 +6,5 @@ This Python project is designed to validate the strength of passwords and incorp
 
 ## 🚀 Features
 - Check password strength (length, complexity, etc.)
-- Future plans: Encrypt passwords for secure storage and Hash passwords for secure comparison
+- Collaboration with Jesse (ktu8350) to create user friendly web app!
 
